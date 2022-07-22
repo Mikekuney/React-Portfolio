@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.4531828f.css",
+    "main.js": "/React-Portfolio/static/js/main.3ea833b7.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ACC-Game-Finder.png": "/React-Portfolio/static/media/ACC-Game-Finder.917a91bf97b4338752b2.png",
+    "static/media/CDimage1.png": "/React-Portfolio/static/media/CDimage1.49bf9de454fe277bff51.png",
+    "static/media/Gather.png": "/React-Portfolio/static/media/Gather.f56363ca57c143fc460e.png",
+    "static/media/BSimage2.png": "/React-Portfolio/static/media/BSimage2.3d479b448850377c36e3.png",
+    "static/media/linkedin.png": "/React-Portfolio/static/media/linkedin.b5622d20d70f68708b39.png",
+    "static/media/Budget.png": "/React-Portfolio/static/media/Budget.7089462b0f9c8aef5549.png",
+    "static/media/PassGen1.png": "/React-Portfolio/static/media/PassGen1.809708c889ab1f3150f6.png",
+    "static/media/Michael_Kuney_Resume.PDF": "/React-Portfolio/static/media/Michael_Kuney_Resume.c9376f766e58308b8a86.PDF",
+    "static/media/twitter.png": "/React-Portfolio/static/media/twitter.ce4bf3fd80ca39d839dc.png",
+    "static/media/Profile.jpg": "/React-Portfolio/static/media/Profile.907b4dd25488496d4b9f.jpg",
+    "static/media/github.png": "/React-Portfolio/static/media/github.d602c8763da57ff3f186.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.4531828f.css.map": "/React-Portfolio/static/css/main.4531828f.css.map",
+    "main.3ea833b7.js.map": "/React-Portfolio/static/js/main.3ea833b7.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4531828f.css",
+    "static/js/main.3ea833b7.js"
+  ]
+}
