@@ -4,7 +4,7 @@ import Nav from '../Nav'
 import About from '../About';
 import Portfolio from '../Portfolio';
 import Contact from '../Contact';
-import Resume from '../Resume';
+// import Resume from '../Resume';
 
 //Header component
 function Header() {
@@ -21,8 +21,8 @@ function Header() {
         return <Portfolio />;
       case 'Contact':
         return <Contact />;
-      case 'Resume':
-        return <Resume />; 
+      // case 'Resume':
+      //   return <Resume />; 
       default:
         return <About />;
     }
